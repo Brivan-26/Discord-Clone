@@ -1,0 +1,19 @@
+.login {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	width: 100%;
+}
+.logo {
+	width: 300px;
+	background-color: #738abd;
+	color: #eff2f5;
+	font-weight: 800;
+}
+.btn {
+	width: 300px;
+}
+img {
+	object-fit: contain;
+	height: 150px;
+}
